@@ -1,0 +1,1 @@
+![master](https://app.travis-ci.com/abiriadev/simple-slash.svg?branch=master)
